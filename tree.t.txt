@@ -1,7 +1,10 @@
 
 what is git
 install git
+config git
 create a repository
 workflow 
-stagin files
-commit
+staging files
+commit changes
+
+removing files

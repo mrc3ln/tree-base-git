@@ -1,1 +1,0 @@
-instrucciones adicionales del curso:
