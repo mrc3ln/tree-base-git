@@ -1,0 +1,6 @@
+
+what is git
+install git
+create a repository
+workflow 
+stagin files
