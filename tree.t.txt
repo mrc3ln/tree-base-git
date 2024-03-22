@@ -4,3 +4,4 @@ install git
 create a repository
 workflow 
 stagin files
+commit
