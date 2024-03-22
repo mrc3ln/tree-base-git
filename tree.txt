@@ -9,3 +9,4 @@ commit changes
 
 removing files
 renaming or moving files
+ignoring files
