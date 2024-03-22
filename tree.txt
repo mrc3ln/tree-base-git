@@ -8,3 +8,4 @@ staging files
 commit changes
 
 removing files
+renaming or moving files
