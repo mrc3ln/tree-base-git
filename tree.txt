@@ -21,3 +21,8 @@ unsataging files
 discarding local changes
 restoring a file to an earlier version
 creating snapshots using VSCode
+
+--browsing history--
+
+filtering the history
+formatting the log output
