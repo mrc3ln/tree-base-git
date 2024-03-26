@@ -26,3 +26,7 @@ creating snapshots using VSCode
 
 filtering the history
 formatting the log output
+creating aliases
+viewing a commit
+viewing the changes across commits
+checking out a commit
