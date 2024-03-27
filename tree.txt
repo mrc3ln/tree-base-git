@@ -60,3 +60,8 @@ rebasing (alternative for merging)
 cherry picking
 picking files form another brach
 ~working with branches in VSCode
+~working with branches in gitkraken
+COLLABORATION
+workflows
+git
+adding collaborators
