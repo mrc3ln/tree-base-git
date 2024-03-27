@@ -46,6 +46,10 @@ comparing branches
 stashing
 merging
 fast-forward merges
+3-way merges
+viewing the merged branches
+merge conflicts
+
 
 
 
