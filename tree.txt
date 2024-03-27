@@ -30,3 +30,8 @@ creating aliases
 viewing a commit
 viewing the changes across commits
 checking out a commit
+finding bugs using bisect
+finding contributors using shortlog
+viewing the history of a file
+restoring a deleted file
+blaming
