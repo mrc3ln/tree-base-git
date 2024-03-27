@@ -56,4 +56,5 @@ undoing a faulty merge
 squash merging
 # space for picture : branch
 # space for notes of pictures : brach
+rebasing
 
