@@ -49,11 +49,11 @@ fast-forward merges
 3-way merges
 viewing the merged branches
 merge conflicts
-# merge whit fast forward -- whit flag ff-no
+# merge whit fast forward -- whit flag --no-ff
 57. visual merge tools (kdiff, [p4merge], winmerge)
 aborting a merge
 undoing a faulty merge
 squash merging
-
-
+# space for picture : branch
+# space for notes of pictures : brach
 
