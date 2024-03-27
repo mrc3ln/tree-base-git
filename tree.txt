@@ -1,4 +1,3 @@
-
 what is git
 install git
 config git
@@ -35,3 +34,5 @@ finding contributors using shortlog
 viewing the history of a file
 restoring a deleted file
 blaming
+
+===Branching===
