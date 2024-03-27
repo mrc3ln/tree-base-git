@@ -50,7 +50,10 @@ fast-forward merges
 viewing the merged branches
 merge conflicts
 # merge whit fast forward -- whit flag ff-no
-
+57. visual merge tools (kdiff, [p4merge], winmerge)
+aborting a merge
+undoing a faulty merge
+squash merging
 
 
 
