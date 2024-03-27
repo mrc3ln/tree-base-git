@@ -43,6 +43,9 @@ BRANCHING
 what are branches
 working whith branches
 comparing branches
+stashing
+merging
+fast-forward merges
 
 
 
