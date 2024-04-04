@@ -65,3 +65,6 @@ COLLABORATION
 workflows
 git
 adding collaborators
+fetching
+pulling
+
