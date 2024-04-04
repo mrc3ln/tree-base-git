@@ -73,3 +73,11 @@ sharing tags
 releases
 sharing branches
 ------chekpoint------
+workflow
+pull request
+resolving conflicts
+~github issues
+~github labels
+~github milestones
+~github contributing open source
+~github keeping a fork up to date
