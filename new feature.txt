@@ -2,3 +2,4 @@
 # notes
 # tables
 - buttons and labels
+- checkboxes
