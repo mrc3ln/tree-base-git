@@ -70,3 +70,5 @@ pulling
 pushing
 storing credentials
 sharing tags
+releases
+sharing branches
