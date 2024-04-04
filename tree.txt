@@ -81,3 +81,12 @@ resolving conflicts
 ~github milestones
 ~github contributing open source
 ~github keeping a fork up to date
+~collaboration in vscode
+~~collaboration in gitkraken
+REWRITING HISTORY
+-
+-
+undoing commits
+reverting commits
+recovering lost commits
+amending the last commit
