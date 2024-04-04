@@ -67,4 +67,6 @@ git
 adding collaborators
 fetching
 pulling
-
+pushing
+storing credentials
+sharing tags
