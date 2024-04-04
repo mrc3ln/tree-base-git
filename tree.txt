@@ -90,3 +90,4 @@ undoing commits
 reverting commits
 recovering lost commits
 amending the last commit
+amendign an earlier commit
